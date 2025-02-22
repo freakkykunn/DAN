@@ -27,7 +27,7 @@ public class dacn extends JFrame {
         textField.setBounds(10, 10, 260, 40);
         contentPane.add(textField);
         textField.setColumns(10);
-        //huy code
+        //Than code
 
         // Ô nhập số thứ hai
         textField_1 = new JTextField();
